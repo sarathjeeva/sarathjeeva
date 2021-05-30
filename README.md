@@ -5,9 +5,9 @@ aboutSARATH
 - 🔭 Experiance in
 -     • Cutomize linux OS using Yocto,
 -     • QT GUI Development, Linux system programming in C / C++
-      • Micro Processors	: TI-AM335x, NXP-iMX6 and Broadcom BCM2837B0
-      • Micro Controllers	: STM32 Cortex M0 &M3, NXP LPC2378 & LPC1114, ESP32
-      • Linux concepts		: Process, Mutli-Threading, IPC and Sockets.
+-     • Micro Processors	: TI-AM335x, NXP-iMX6 and Broadcom BCM2837B0
+-     • Micro Controllers	: STM32 Cortex M0 &M3, NXP LPC2378 & LPC1114, ESP32
+-     • Linux concepts		: Process, Mutli-Threading, IPC and Sockets.
 - 🌱 I’m currently learning RTOS,  Hardware design and Development,
 - 📫 How to reach me: My Linkedin profile 🕸️- https://www.linkedin.com/in/uclinux-sarath/
 <!--
