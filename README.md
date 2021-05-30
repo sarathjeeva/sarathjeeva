@@ -1,5 +1,4 @@
 # 👋 iamSarath
-aboutSARATH
 
 - 🔭 I’m currently working on Embedded Systems, Linux and Industrial & Smart Home product design & development.
 - 🔭 Experiance in
