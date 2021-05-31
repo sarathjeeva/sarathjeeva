@@ -2,11 +2,14 @@
 
 - 🔭 I’m currently working on Embedded Systems, Linux and Industrial & Smart Home product design & development.
 - 🔭 Experiance in
--      • Cutomize linux OS using Yocto,
-       • QT GUI Development, Linux system programming in C / C++
-       • Micro Processors	 : TI-AM335x, NXP-iMX6 and Broadcom BCM2837B0
-       • Micro Controllers   : STM32 Cortex M0 &M3, NXP LPC2378 & LPC1114, ESP32
-       • Linux concepts	 : Process, Mutli-Threading, IPC and Sockets.
+-      • Cutomize linux based OS using Yocto buildsystem,
+       • QT GUI Development, Linux system programming in C / C++ / Python, Android Native, HAL.
+       • MicroProcessors    : TI-AM335x, NXP-iMX6 and Broadcom BCM2837B0 (Rpi 3b+, Rpi 4 Comp Module - own Carrier Board).
+       • MicroControllers   : STM32 Cortex M0 & M3, NXP LPC2378 & LPC1114, ESP32 (esp-idf).
+       • Linux concepts     : Process, Mutli-Threading, IPC and Sockets.
+       • Wireless Protocols : HTTP(S), FTP, TCP/IP, MQTT, mDNS, CoAP, Bluetooth(SPP), BLE.
+       • Wired Protocols    : I2C, SPI, U(S)ART, RS232, RS485 (MODBUS) and USB (libusb).
+       • IDE & Tools        : Qt Creator, Android Studio, Eclipse IDE, VSCode, VIM, MqttBOX, FileZilla, SqliteDB, Postman.
 - 🌱 I’m currently learning RTOS,  Hardware design and Development,
 - 📫 How to reach me: My Linkedin profile 🕸️- https://www.linkedin.com/in/uclinux-sarath/
 <!--
