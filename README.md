@@ -2,14 +2,14 @@
 
 - 🔭 I’m currently working on Embedded Systems, Linux and Industrial & Smart Home product design & development.
 - 🔭 Experiance in
--      • Cutomize linux based OS using Yocto buildsystem,
-       • **QT GUI Development**, Linux system programming in **C** / **C++** / Python, Android Native, HAL.
-       • **MicroProcessors**    : TI-AM335x, NXP-iMX6 and Broadcom BCM2837B0 (Rpi 3 & Rpi 4 Comp Module - own Carrier Board).
-       • **MicroControllers**   : Atmel, STM32 M0 & M3, NXP LPC2378 & LPC1114, ESP8266, ESP32 (esp-idf).
-       • **Linux concepts**     : Process, Mutli-Threading, IPC, Sockets, SysVInit, SystemD.
-       • **Wireless Protocols** : HTTP(S), FTP, TCP/IP, MQTT, mDNS, CoAP, Bluetooth(SPP), BLE.
-       • **Wired Protocols**    : I2C, SPI, U(S)ART, RS232, RS485 (MODBUS) and USB (libusb).
-       • **IDE & Tools**        : Qt Creator, Android Studio, Eclipse, VSCode, VIM, MqttBOX, FileZilla, SqliteDB, Postman.
+-      • **Cutomize linux based OS using Yocto buildsystem,
+       • QT GUI Development, Linux system programming in C / C++ / Python, Android Native, HAL.
+       • MicroProcessors    : TI-AM335x, NXP-iMX6 and Broadcom BCM2837B0 (Rpi 3 & Rpi 4 Comp Module - own Carrier Board).
+       • MicroControllers   : Atmel, STM32 M0 & M3, NXP LPC2378 & LPC1114, ESP8266, ESP32 (esp-idf).
+       • Linux concepts     : Process, Mutli-Threading, IPC, Sockets, SysVInit, SystemD.
+       • Wireless Protocols : HTTP(S), FTP, TCP/IP, MQTT, mDNS, CoAP, Bluetooth(SPP), BLE.
+       • Wired Protocols    : I2C, SPI, U(S)ART, RS232, RS485 (MODBUS) and USB (libusb).
+       • IDE & Tools        : Qt Creator, Android Studio, Eclipse, VSCode, VIM, MqttBOX, FileZilla, SqliteDB, Postman.**
 - 🌱 I’m currently learning RTOS,  Hardware design and Development,
 - 📫 How to reach me: My Linkedin profile 🕸️- https://www.linkedin.com/in/uclinux-sarath/
 <!--
