@@ -4,7 +4,7 @@
 - 🔭 Experiance in
 -     • Cutomize linux based OS using Yocto buildsystem,
       • QT GUI Development, Linux system programming in C / C++ / Python, Android Native, HAL.
-      • MicroProcessors    : TI-AM335x, NXP-iMX6 and Broadcom BCM2837B0 (Rpi 4 Comp Module - own Carrier Board).
+      • MicroProcessors    : TI-AM335x, NXP-iMX6(DL&ULL) and Broadcom BCM2837B0 (Rpi 4 Comp Module - own Carrier Board).
       • MicroControllers   : Atmel, STM32 M0 & M3, NXP LPC2378 & LPC1114, ESP8266, ESP32 (esp-idf).
       • Linux concepts     : Process, Mutli-Threading, IPC, Sockets, SysVInit, SystemD.
       • Wireless Protocols : HTTP(S), FTP, TCP/IP, MQTT, mDNS, CoAP, Bluetooth(SPP), BLE.
